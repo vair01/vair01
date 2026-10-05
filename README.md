@@ -11,7 +11,7 @@ Currently focusing on the **tritium fuel cycle** in magnetic confinement fusion,
 
 ## 🚀 Academic Projects
 
-### 🔹 [D-T Fusion Fuel Cycle Dynamics and Preliminary Design](https://github.com/vair01/dt-fuel-cycle-modeling)
+### 🔹 [D-T Fusion Fuel Cycle Dynamics and Preliminary Design](https://github.com/vair01/dt-fusion-fuel-cycle-modeling)
 * **Topics:** `Simulink` `MATLAB` `Tritium Modeling` `Vacuum Cryopumping` `Tokamak`
 * Dynamic lumped-parameter simulation of a closed tritium fuel cycle for a $500\text{ MW}_{\text{th}}$ compact tokamak. Sized primary cryopumps under LFL flammability limits and determined startup inventory ($1.45\text{ kg}$) and required TBR ($1.09$) for a 2-year doubling time.
 
