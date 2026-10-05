@@ -9,7 +9,7 @@ Currently focusing on the **tritium fuel cycle** in magnetic confinement fusion,
 
 ---
 
-## 🚀 Academic Projects
+## 🚀 Academic projects
 
 ### 🔹 [D-T Fusion Fuel Cycle Dynamics and Preliminary Design](https://github.com/vair01/dt-fusion-fuel-cycle-modeling)
 * **Topics:** `Simulink` `MATLAB` `Tritium Modeling` `Vacuum Cryopumping` `Tokamak`
